@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3559
+
+Vim上的英译汉插件，服务由Google提供，需要Python
+使用时，可以在可视模式下高亮选择文本，或者在普通模式下将光标移到目标单词上，使用 /gt（<leader>gt) 快捷键或者输入 :Gtrans 来获得翻译
+Github: https://github.com/bolasblack/TheLovelyThings/blob/master/gtrans.vim
+图片: http://i.min.us/ik3eaY.jpg
